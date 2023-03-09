@@ -1,0 +1,7 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/beanlovesjazz/ws_moveit/devel/lib/python3/dist-packages",
+        "/home/beanlovesjazz/demo03_ws/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ]
+}
